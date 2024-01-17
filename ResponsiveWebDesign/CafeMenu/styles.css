@@ -13,6 +13,14 @@ body {
   font-style: italic;
 }
 
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
 h1,
 h2 {
   font-family: Impact, serif;
@@ -25,6 +33,13 @@ h2 {
   margin-right: auto;
   padding: 20px;
   background-color: burlywood;
+}
+
+hr {
+  height: 2px;
+  background-color: brown;
+  border-color: brown;
+  border-width: 1px;
 }
 
 .flavor,
